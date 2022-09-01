@@ -11,7 +11,7 @@ app = Flask(__name__)
 @app.route("/", methods=['GET', 'POST'])
 def my_form_post():
 
-    file = open('data.csv')
+    file = open('static/data.csv')
     read = csv.reader(file)
     header = next(read)
     rows = []
