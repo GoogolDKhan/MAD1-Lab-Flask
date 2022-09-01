@@ -1,3 +1,8 @@
+# Flask generated files
+static/myplot.png
+templates/course.html
+templates/student.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
