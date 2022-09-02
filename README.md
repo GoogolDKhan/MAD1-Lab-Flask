@@ -1,2 +1,5 @@
 # MAD1-Lab-Flask
-Flask application
+
+- Web application using flask
+
+- Dated : 29-05-2022
